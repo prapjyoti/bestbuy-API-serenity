@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product CURD test","This will get all products","SUCCESS","2021-07-19T13:03:12.668+01:00[Europe/London]","0.0","0.66"
+"Product CURD test","This will create new product","SUCCESS","2021-07-19T13:03:13.344+01:00[Europe/London]","0.0","0.34"
+"Product CURD test","This will get product- By product ID ","SUCCESS","2021-07-19T13:03:13.688+01:00[Europe/London]","0.0","0.8"
+"Product CURD test","This will be updated a product by id","SUCCESS","2021-07-19T13:03:14.493+01:00[Europe/London]","0.0","0.33"
+"Product CURD test","This will delete and verify if product is deleted","SUCCESS","2021-07-19T13:03:14.820+01:00[Europe/London]","0.0","1.05"

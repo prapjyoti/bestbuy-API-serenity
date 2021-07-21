@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Stores CURD test","This test will create a new stores and verify it","SUCCESS","2021-07-19T13:03:18.218+01:00[Europe/London]","0.0","0.49"
+"Stores CURD test","This test will get the stores information by ID","SUCCESS","2021-07-19T13:03:18.711+01:00[Europe/London]","0.0","0.05"
+"Stores CURD test","This test will update the store information and verify it","SUCCESS","2021-07-19T13:03:18.764+01:00[Europe/London]","0.0","0.29"
+"Stores CURD test","This test will delete the store and verify the store is deleted ","SUCCESS","2021-07-19T13:03:19.052+01:00[Europe/London]","0.0","0.21"
+"Stores CURD test","This will get all stores","SUCCESS","2021-07-19T13:03:19.264+01:00[Europe/London]","0.0","0.16"
